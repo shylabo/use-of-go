@@ -8,4 +8,5 @@ use (
 	./05_for
 	./06_if-else
 	./07_switch
+	./08_array
 )
