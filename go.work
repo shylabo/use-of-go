@@ -5,4 +5,5 @@ use (
 	./02_values
 	./03_variables
 	./04_constants
+	./05_for
 )
