@@ -6,4 +6,5 @@ use (
 	./03_variables
 	./04_constants
 	./05_for
+	./06_if-else
 )
