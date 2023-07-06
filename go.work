@@ -10,4 +10,5 @@ use (
 	./07_switch
 	./08_array
 	./09_slices
+	./10_maps
 )
