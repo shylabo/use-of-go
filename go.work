@@ -12,4 +12,5 @@ use (
 	./09_slices
 	./10_maps
 	./11_range
+	./12_function
 )
