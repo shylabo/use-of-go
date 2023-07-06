@@ -22,4 +22,5 @@ use (
 	./19_struct
 	./20_method
 	./21_interface
+	./22_struct-embedding
 )
