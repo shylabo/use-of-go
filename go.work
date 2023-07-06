@@ -15,4 +15,5 @@ use (
 	./12_function
 	./13_multiple-return-values
 	./14_variadic-function
+	./15_closure
 )
