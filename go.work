@@ -20,4 +20,5 @@ use (
 	./17_pointer
 	./18_string-and-rune
 	./19_struct
+	./20_method
 )
