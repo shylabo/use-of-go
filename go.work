@@ -11,4 +11,5 @@ use (
 	./08_array
 	./09_slices
 	./10_maps
+	./11_range
 )
