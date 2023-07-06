@@ -24,4 +24,5 @@ use (
 	./21_interface
 	./22_struct-embedding
 	./23_generics
+	./24_error
 )
