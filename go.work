@@ -32,4 +32,5 @@ use (
 	./29_channel-directions
 	./30_select
 	./31_timeout
+	./32_non-blocking-channel-operation
 )
