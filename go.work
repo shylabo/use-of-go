@@ -40,4 +40,5 @@ use (
 	./37_worker-pool
 	./38_wait-group
 	./39_rate-limiting
+	./40_atomic-counters
 )
