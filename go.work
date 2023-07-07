@@ -36,4 +36,5 @@ use (
 	./33_closing-channel
 	./34_range-over-channel
 	./35_timer
+	./36_ticker
 )
