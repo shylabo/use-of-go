@@ -38,4 +38,5 @@ use (
 	./35_timer
 	./36_ticker
 	./37_worker-pool
+	./38_wait-group
 )
