@@ -9,8 +9,10 @@ cd "$dir_name"
 cat <<EOF > main.go
 package main
 
+/**
+*/
+
 func main() {
-  // Add code
 }
 EOF
 

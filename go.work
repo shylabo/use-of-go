@@ -28,4 +28,5 @@ use (
 	./25_goroutines
 	./26_channels
 	./27_channel-buffering
+	./28_channel-synchronization
 )
