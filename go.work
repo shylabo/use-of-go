@@ -29,4 +29,5 @@ use (
 	./26_channels
 	./27_channel-buffering
 	./28_channel-synchronization
+	./29_channel-directions
 )
