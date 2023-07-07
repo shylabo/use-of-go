@@ -31,4 +31,5 @@ use (
 	./28_channel-synchronization
 	./29_channel-directions
 	./30_select
+	./31_timeout
 )
