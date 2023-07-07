@@ -39,4 +39,5 @@ use (
 	./36_ticker
 	./37_worker-pool
 	./38_wait-group
+	./39_rate-limiting
 )
