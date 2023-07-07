@@ -37,4 +37,5 @@ use (
 	./34_range-over-channel
 	./35_timer
 	./36_ticker
+	./37_worker-pool
 )
