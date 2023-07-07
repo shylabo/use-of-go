@@ -34,4 +34,5 @@ use (
 	./31_timeout
 	./32_non-blocking-channel-operation
 	./33_closing-channel
+	./34_range-over-channel
 )
